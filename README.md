@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Krishss2006
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m passionate in Python
+- 🌱 I’m currently learning Python, Pygames.
+- 💞️ I’m looking to collaborate on Project related to Python
 - 📫 How to reach me just contact me I'll reply you https://technicalkrishssg.blogspot.com/?m=1#footer-wrapper
 
 <!---
